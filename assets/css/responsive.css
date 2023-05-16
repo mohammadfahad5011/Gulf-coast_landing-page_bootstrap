@@ -1,0 +1,163 @@
+@media (min-width: 992px) and (max-width: 1200px) {
+  /*---------------------- Header area start----------------------*/
+  .header_area a {
+    font-size: 20px;
+    margin-right: 30px;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 1200px) {
+  /*---------------------- Hero area start ----------------------*/
+
+  .hero-area .hearo_content {
+    max-width: 637px;
+    width: 100%;
+    padding-left: 50px;
+  }
+
+  /* -----linking-section------  */
+  .linking_section .slider_area h6 {
+    padding-left: 30px;
+  }
+
+  .linking_section .slider_area h4 {
+    padding-left: 30px;
+  }
+
+  /* -----video-section---  */
+  .video_section .video_text {
+    padding: 0 20px;
+  }
+
+  .video_section .video_text h4 {
+    font-size: 50px;
+  }
+
+  .video_section .video_text p {
+    width: max-content;
+  }
+}
+
+@media (min-width: 850px) and (max-width: 992px) {
+  .header_area .logo img {
+    width: 145px;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 850px) {
+  .header_area .logo img {
+    width: 110px;
+  }
+  /* ------ Hero area start ------- */
+  .hero-area .hearo_content {
+    max-width: 100%;
+    width: 100%;
+  }
+  .hero-area .hearo_content h1 {
+    font-size: 90px;
+  }
+
+  .hero_content_bottom {
+    font-size: 50.8605px;
+    right: 5%;
+    bottom: 5%;
+  }
+
+  /* ----linking-section----  */
+  .section_title h3 {
+    font-size: 44px;
+    line-height: 1.2;
+  }
+
+  .linking_section .slider_area h6 {
+    font-size: 16px;
+    line-height: 10px;
+    text-transform: uppercase;
+    color: #d7582c;
+  }
+
+  .linking_section .slider_area h4 {
+    font-size: 26px;
+    line-height: 41px;
+  }
+  .owl-nav {
+    top: -80px;
+    right: 20px;
+  }
+
+  .owl-nav button {
+    width: 39px;
+    height: 39px;
+    margin-left: 10px;
+    font-size: 25px !important;
+  }
+  /* ------ video area satart --------  */
+
+  .video_section .video_text {
+    flex-direction: column;
+  }
+  .video_section .video_text .divider {
+    display: none;
+  }
+
+  .video_section .video_text h4 {
+    font-size: 44px;
+  }
+  .video_section .video_text p {
+    max-width: 100%;
+    width: 100%;
+    font-size: 16px;
+    line-height: 28px;
+  }
+  /* --------- timeline area satart ---------  */
+  .timeline_section {
+    padding: 60px 0;
+  }
+  .testimonial_flex {
+    flex-direction: column;
+  }
+  .timeline_section .left_side .single_item .name {
+    font-size: 28px;
+    line-height: 37px;
+    margin: 16px 0;
+  }
+  .timeline_section .left_side .single_item .text {
+    font-size: 20px;
+    line-height: 28px;
+  }
+  .quote-left {
+    position: absolute;
+    left: -2%;
+    top: -7%;
+  }
+  .timeline_divider {
+    display: none;
+  }
+
+  .right_side .right_side_content h3 {
+    font-size: 40px;
+    line-height: 44px;
+  }
+  .right_side .right_side_content p {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .timeline_section .reconnect_text {
+    font-size: 51.68px;
+    line-height: 72px;
+    margin: 0 auto;
+    margin-top: 40px;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+}
+
+@media (min-width: 320px) and (max-width: 575px) {
+}
+
+@media (min-width: 320px) and (max-width: 1200px) {
+}
+
+@media (min-width: 320px) and (max-width: 1200px) {
+}
